@@ -1,4 +1,5 @@
 score = int(input("Enter the class score : "))
+
 print("Letter Grade: ", end='')
 if score>=90:
     print("A")
