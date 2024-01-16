@@ -1,5 +1,6 @@
 input_string = list(input("Enter the string : "))
 
+
 if len(input_string) >= 2:
     del input_string[:2]
 
